@@ -3,6 +3,8 @@ Typing game made for school project.
 
 You will need an instance of pygame to be able to play the game.
 
+![Screenshot 2025-01-24 183527](https://github.com/user-attachments/assets/0c7b7934-70a2-4757-b271-528611057dd4)
+
 https://imgur.com/a/FYXzXHA
 GAME_STATE = Main Menu
 
