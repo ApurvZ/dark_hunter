@@ -24,3 +24,7 @@ GAME_STATE = DEAD
 
 
 GAME_STATE = WON
+
+![image](https://github.com/user-attachments/assets/8cfdb230-c8a8-4dcb-9149-a949b0a74e99)
+
+GAME_STATE = CHEAT_MODE
