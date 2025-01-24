@@ -1,0 +1,10 @@
+# Copy each of these values to your python file and turn them into collections
+
+# type of exercise:
+'rope_skipping', 'spinning', 'arms', 'running', 'legs', 'lifting', 'moonwalking', 'abdominals'
+
+# minutes of training
+10, 10, 10, 15, 10, 10, 15, 10
+#you_can_do_THIS
+# number_of_kcal
+180, 100, 50, 200, 50, 50, 120, 50
